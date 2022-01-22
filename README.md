@@ -1,7 +1,7 @@
 Example Voting App
 =========
 
-random comment
+This is a sample voting app.
 
 Getting started
 ---------------
