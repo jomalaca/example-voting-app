@@ -2,6 +2,7 @@ Example Voting App
 =========
 
 This is a sample voting app.
+This is a test for Jenkinsfile conditional statements.
 
 Getting started
 ---------------
