@@ -11,7 +11,7 @@ pipeline {
             changeset "**/result/**"
           }
             steps{
-                echo 'Installing npm'
+                echo 'Installing npm and compiling'
                 dir('result'){
                   sh 'npm install'
                 }
